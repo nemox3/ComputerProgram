@@ -1,0 +1,24 @@
+/*  Name:					*/
+/*  Date: 		Period:		*/
+/*  Assn:FrontEndNinja		*/
+
+/* Add the background color property */
+
+/* Add the text color property
+red #D5245B
+blAck #131A2D
+tan #DOC4AB
+*/
+
+.top{
+    background-color:white;
+    color: #131A2D;
+    border-bottom:solid #D0C4AB;
+    padding: 5px;
+    font-family:Fantasy;
+}
+.container{
+    background-color:#131A2D;
+    color: #D0C4AB;
+}
+
